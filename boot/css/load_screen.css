@@ -1,0 +1,10 @@
+	#load_screen{
+				margin-top:-18px;
+				opacity:1;
+				position:fixed;
+				z-index:10;
+				width:100%;
+				}
+	#load_screen #loading{
+				text-align:center;
+				}
